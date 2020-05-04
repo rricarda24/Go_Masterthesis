@@ -1,0 +1,6 @@
+Proband_ID,Date,Time,Temperature,Handedness,Condition,Order,ComPort,ConditionNr,SAM_arousal,SAM_valence,Presence,ColourColourNr,Ishihara_Result
+0.3,10.03.2020,19:00,21.3,0,1,0,COM9,0,3,8,999,999
+0.3,10.03.2020,19:14,21.3,0,1,0,COM9,1,2,6,83,4_Red_BrightL_Sat
+0.3,10.03.2020,19:26,21.3,0,1,0,COM9,2,5,7,59,5_Red_BrightL_Sat
+0.3,10.03.2020,19:34,21.3,0,1,0,COM9,3,5,6,59,6_Red_BrightM_Sat
+0.3,10.03.2020,19:42,21.3,0,1,0,COM9,4,3,6,86,7_Red_BrightM_Sat

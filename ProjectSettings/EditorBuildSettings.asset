@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/START.unity
+    guid: cb41809062989094da5ddad5b852c778
+  - enabled: 1
+    path: Assets/Scenes/BASELINE/0.0_TestTask.unity
+    guid: 72c65fb4ae507a245b5d17ea3f8a9c9c
+  - enabled: 1
+    path: Assets/Scenes/BASELINE/0.1_Instruction.unity
+    guid: be60722c93da5dc42a0df549b8d14ac9
+  - enabled: 1
+    path: Assets/Scenes/BASELINE/0.2_ECG.unity
+    guid: a6ddcd4b73df50649a129c5e47e9df93
+  - enabled: 1
+    path: Assets/Scenes/BASELINE/0.3_SAM_Arousal.unity
+    guid: 6b732193bc616e247b15f585e09ba6e6
+  - enabled: 1
+    path: Assets/Scenes/BASELINE/0.3_SAM_Valence.unity
+    guid: ccf33fdaabe6d7e4a95e6e68055d1c1c
+  - enabled: 1
+    path: Assets/Scenes/BASELINE/0.4_BodyMap.unity
+    guid: 7e2f8bce4b0390644928c004ae1026e2
+  - enabled: 1
+    path: Assets/Scenes/0/0_0.0_ECGInstruction.unity
+    guid: b341c49e29d287748a2336611421536d
+  - enabled: 1
+    path: Assets/Scenes/0/0_0.1_ECG.unity
+    guid: b459625cbddc3654787cc4a084015c7e
+  - enabled: 1
+    path: Assets/Scenes/0/0_1.0_CogTaskInstruction.unity
+    guid: fa43be34ff9710a40a4a5d20c3953d99
+  - enabled: 1
+    path: Assets/Scenes/0/0_1.1_CogTask.unity
+    guid: f4512561ecd3a5d4688e6982e3db6b3f
+  - enabled: 1
+    path: Assets/Scenes/0/0_2.1_SAMArousal.unity
+    guid: de71cdf212ec99d4cb2d33b887dbc598
+  - enabled: 1
+    path: Assets/Scenes/0/0_2.2_SAMValence.unity
+    guid: 28850cf58668bd547884815f61009e23
+  - enabled: 1
+    path: Assets/Scenes/0/0_3.1_BodyMap.unity
+    guid: e091bf1132a191549b27a0e4b4a7126c
+  - enabled: 1
+    path: Assets/Scenes/0/0_4.1_Presence.unity
+    guid: 921cc5a8c6e18144c89fdb220734e952
+  - enabled: 1
+    path: Assets/Scenes/1/1_0.0_ECGInstruction.unity
+    guid: 1921e7073c69a2240a46cf0d19cb18eb
+  - enabled: 1
+    path: Assets/Scenes/1/1_0.1_ECG.unity
+    guid: 4f3478aa1d2b4f94abc662e045f6a4f0
+  - enabled: 1
+    path: Assets/Scenes/1/1_1.0_CogTaskInstruction.unity
+    guid: 70af39d24d2f38f4da8e0e79b49e4570
+  - enabled: 1
+    path: Assets/Scenes/1/1_1.1_CogTask.unity
+    guid: a756ab2cf8ad4bd48bba8a55d7594c15
+  - enabled: 1
+    path: Assets/Scenes/1/1_2.1_SAMArousal.unity
+    guid: 5286e01b83a78ec4ab9904a702562c66
+  - enabled: 1
+    path: Assets/Scenes/1/1_2.2_SAMValence.unity
+    guid: 4a246351461366946a5e121c601238a1
+  - enabled: 1
+    path: Assets/Scenes/1/1_3.1_BodyMap.unity
+    guid: 387ec122e8d22f54a9f2104305900976
+  - enabled: 1
+    path: Assets/Scenes/1/1_4.1_Presence.unity
+    guid: 31a633617ce80954da6014c1ec17f9cf
+  - enabled: 1
+    path: Assets/Scenes/2/2_0.0_ECGInstruction.unity
+    guid: 3f9a4b85259a4334fb4dc82de62c9f7f
+  - enabled: 1
+    path: Assets/Scenes/2/2_0.1_ECG.unity
+    guid: 933ba3d54305e6748848940280320747
+  - enabled: 1
+    path: Assets/Scenes/2/2_1.0_CogTaskInstruction.unity
+    guid: 77e13cefa2c0f2d4b91eb140bd260d43
+  - enabled: 1
+    path: Assets/Scenes/2/2_1.1_CogTask.unity
+    guid: 8b26d097b979ece4d897429f143025e6
+  - enabled: 1
+    path: Assets/Scenes/2/2_2.1_SAMArousal.unity
+    guid: 4c084eae0c92e3e4e814f5d3449d9f5b
+  - enabled: 1
+    path: Assets/Scenes/2/2_2.2_SAMValence.unity
+    guid: 5ab2fcc109167604f8e98e58a98daa39
+  - enabled: 1
+    path: Assets/Scenes/2/2_3.1_BodyMap.unity
+    guid: 3e3b3bf845352d94a835536f0b0fdabf
+  - enabled: 1
+    path: Assets/Scenes/2/2_4.1_Presence.unity
+    guid: bcd901eca10a6b7468c3078fa01cde3b
+  - enabled: 1
+    path: Assets/Scenes/3/3_0.0_ECGInstruction.unity
+    guid: 51c5250d19d3b5b46905f3885debe1cb
+  - enabled: 1
+    path: Assets/Scenes/3/3_0.1_ECG.unity
+    guid: 58a9b574e43649b47a897bbcc8ff7b31
+  - enabled: 1
+    path: Assets/Scenes/3/3_1.0_CogTaskInstruction.unity
+    guid: 7645d2c30f6eab34fb4a5301f74ae2eb
+  - enabled: 1
+    path: Assets/Scenes/3/3_1.1_CogTask.unity
+    guid: 508a05f6f5deb5a4da180a0b322f1131
+  - enabled: 1
+    path: Assets/Scenes/3/3_2.1_SAMArousal.unity
+    guid: 63d5ac8cb7f038749aa3976305d17578
+  - enabled: 1
+    path: Assets/Scenes/3/3_2.2_SAMValence.unity
+    guid: 93b559db7d0b8f54ab24e86db60e5f2e
+  - enabled: 1
+    path: Assets/Scenes/3/3_3.1_BodyMap.unity
+    guid: 550cae5cc4ace894381c56afcc06b3ff
+  - enabled: 1
+    path: Assets/Scenes/3/3_4.1_Presence.unity
+    guid: 9f76aedf3e8ded746828130d59589c88
+  - enabled: 1
+    path: Assets/Scenes/4/4_0.0_ECGInstruction.unity
+    guid: 0b89bb8e688dfe14b8c7561e28d1a596
+  - enabled: 1
+    path: Assets/Scenes/4/4_0.1_ECG.unity
+    guid: 5062ba211f5eb634f95bbb46df6029a8
+  - enabled: 1
+    path: Assets/Scenes/4/4_1.0_CogTaskInstruction.unity
+    guid: f8e4db9eaad311f428a935ee3dbfc7e4
+  - enabled: 1
+    path: Assets/Scenes/4/4_1.1_CogTask.unity
+    guid: a73c3440c8c98184e970b51ea48f4e83
+  - enabled: 1
+    path: Assets/Scenes/4/4_2.1_SAMArousal.unity
+    guid: 964dd479dff18ea4d9c8dc9b7c324f8f
+  - enabled: 1
+    path: Assets/Scenes/4/4_2.2_SAMValence.unity
+    guid: 2bc445978be92124dbad5b3a3be9a9b7
+  - enabled: 1
+    path: Assets/Scenes/4/4_3.1_BodyMap.unity
+    guid: 57d8db1fdae357d46a0d5cdc1355b6a7
+  - enabled: 1
+    path: Assets/Scenes/4/4_4.1_Presence.unity
+    guid: 8d156f15262d4084ba18836d4fc939a2
+  - enabled: 1
+    path: Assets/Scenes/5/5_0.0_ECGInstruction.unity
+    guid: 8b8e5689e354df842a5d66c66ec6ea3e
+  - enabled: 1
+    path: Assets/Scenes/5/5_0.1_ECG.unity
+    guid: 145d81bad4f92024e9461e455a22591a
+  - enabled: 1
+    path: Assets/Scenes/5/5_1.0_CogTaskInstruction.unity
+    guid: 5a9885cdf7d22fd4fbb1c6ebc69027cb
+  - enabled: 1
+    path: Assets/Scenes/5/5_1.1_CogTask.unity
+    guid: a59b75b4308b6a84fb7320fdbd652ade
+  - enabled: 1
+    path: Assets/Scenes/5/5_2.1_SAMArousal.unity
+    guid: 1f96c6ec6126a4d4087303fc49016901
+  - enabled: 1
+    path: Assets/Scenes/5/5_2.2_SAMValence.unity
+    guid: 1b087ccead86bfc45af91f8d0cb1ee9b
+  - enabled: 1
+    path: Assets/Scenes/5/5_3.1_BodyMap.unity
+    guid: 01208a5bc120d174ab1b31b30cf88028
+  - enabled: 1
+    path: Assets/Scenes/5/5_4.1_Presence.unity
+    guid: 5ab0133423a35c34189023502c2e4806
+  - enabled: 1
+    path: Assets/Scenes/6/6_0.0_ECGInstruction.unity
+    guid: 48781f13810f50647bd2397c5303d448
+  - enabled: 1
+    path: Assets/Scenes/6/6_0.1_ECG.unity
+    guid: ba7cf03f787030f4ba5f287ee3ab2422
+  - enabled: 1
+    path: Assets/Scenes/6/6_1.0_CogTaskInstruction.unity
+    guid: d2b7c3f8fd4b11d47af54740c252c910
+  - enabled: 1
+    path: Assets/Scenes/6/6_1.1_CogTask.unity
+    guid: 91ed534219a81fc439dea5a99be92e2d
+  - enabled: 1
+    path: Assets/Scenes/6/6_2.1_SAMArousal.unity
+    guid: d7da82f59a91f3b458e034262c257e11
+  - enabled: 1
+    path: Assets/Scenes/6/6_2.2_SAMValence.unity
+    guid: 5ea7fa92941c8f44fa560c32c339de74
+  - enabled: 1
+    path: Assets/Scenes/6/6_3.1_BodyMap.unity
+    guid: 1d4e645eff42ce54ca06e96594d1f9f1
+  - enabled: 1
+    path: Assets/Scenes/6/6_4.1_Presence.unity
+    guid: d190e0f1c8f92b745b891e3e57de029b
+  - enabled: 1
+    path: Assets/Scenes/7/7_0.0_ECGInstruction.unity
+    guid: 732695c6e28b8c94f8df52ffad7ff650
+  - enabled: 1
+    path: Assets/Scenes/7/7_0.1_ECG.unity
+    guid: 04685bd0beabf1e4da621d7c81af7d0f
+  - enabled: 1
+    path: Assets/Scenes/7/7_1.0_CogTaskInstruction.unity
+    guid: a9db95bfa7e296641bdc49b952343826
+  - enabled: 1
+    path: Assets/Scenes/7/7_1.1_CogTask.unity
+    guid: 62139c65ac62e0a479bcc6c4cdf293eb
+  - enabled: 1
+    path: Assets/Scenes/7/7_2.1_SAMArousal.unity
+    guid: 5bc986bbe8e221e4b95b91960d01f246
+  - enabled: 1
+    path: Assets/Scenes/7/7_2.2_SAMValence.unity
+    guid: f2918ba9c18822040b4ca0296b2a1602
+  - enabled: 1
+    path: Assets/Scenes/7/7_3.1_BodyMap.unity
+    guid: 05a40e6d67250274cadca9c4ae15824c
+  - enabled: 1
+    path: Assets/Scenes/7/7_4.1_Presence.unity
+    guid: 4c2247c4f058f5646817325467b1d4d7
+  - enabled: 1
+    path: Assets/Scenes/END.unity
+    guid: 10a24f99893e69d4e921504ea9abf458
+  m_configObjects: {}
